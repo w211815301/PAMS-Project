@@ -1,0 +1,3 @@
+1001, Alice Smith, 09:30
+1002, Bob Johnson, 10:15
+1003, Carol Evans, 11:00
